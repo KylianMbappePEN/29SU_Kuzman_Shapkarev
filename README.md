@@ -3,7 +3,7 @@
 Материали за класове:
 
 ## 8 клас:
-- 8-ми А клас;
+- [8-ми А клас](https://github.com/NikolaBaka/29SU_Kuzman_Shapkarev/tree/main/8A);
 - 8-ми Б клас;
 - 8-ми В клас;
 - 8-ми Г клас;
